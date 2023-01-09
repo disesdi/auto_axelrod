@@ -6,7 +6,7 @@ this Python project is designed to allow the user to input from one to several A
 
 the `axelrod` package contains hundreds of strategies, both original and community-contributed. find package documentation [here](https://axelrod.readthedocs.io/en/fix-documentation/index.html).
 
-*code available [in this jupyter notebook](https://github.com/disesdi/auto_axelrod/blob/d83f5b13ad02f1bffaa259a6ee6fd03ce761c487/axelrod_tourney_generator_with_visualization.ipynb).*
+code for this project available [in this jupyter notebook](https://github.com/disesdi/auto_axelrod/blob/d83f5b13ad02f1bffaa259a6ee6fd03ce761c487/axelrod_tourney_generator_with_visualization.ipynb).
 
 ## how to use
 
