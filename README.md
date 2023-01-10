@@ -1,4 +1,4 @@
-# auto_axelrod
+# Auto Axelrod
 
 *a python project to auto-generate multi-strategy Axelrod tournaments, & visualize their results*
 
