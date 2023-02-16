@@ -18,6 +18,8 @@ to run a tournament, input the desired strategies from the `axelrod` package in 
 
 to see a list of all strategies in the notebook, use `axl.all_strategies`
 
+* returns a python list of all strategies, more info [here](https://axelrod.readthedocs.io/en/fix-documentation/tutorials/advanced/strategies.html?highlight=axl.all_strategies#accessing-strategies)
+
 ## visualization
 
 the `make_tourney_multi` function automatically displays boxplot & payoff matrix visualizations of tournament results.
